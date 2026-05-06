@@ -1,0 +1,22 @@
+* .header1{text-align: center;
+}
+
+
+.container1{
+    background-image: url("/images/image.jpg"); 
+    background-size: cover;
+    background-position: center;
+   
+    margin: 0;
+    height: 100vh;
+
+}
+.image {
+    text-align: center;
+} 
+
+.container1 p{
+    color: white;
+    font-size:large;
+    margin: 20px;
+}
